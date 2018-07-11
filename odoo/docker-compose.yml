@@ -1,4 +1,4 @@
-ersion: '2'
+version: '2'
 services:
   web:
     image: odoo:11.0
